@@ -59,9 +59,9 @@ The analysis uses two primary datasets:
 ## Project Structure
 
 ```
-├── bda_module_3_final_evaluation_evelina.ipynb   # Main Jupyter Notebook with analysis
-├── Customer Flight Activity.csv                   # Flight activity dataset
-└── Customer Loyalty History.csv                   # Loyalty history dataset
+├── Customer-Flight-and-Loyalty-Data-Analysis.ipynb  # Main Jupyter Notebook with analysis
+├── Customer Flight Activity.csv                     # Flight activity dataset
+└── Customer Loyalty History.csv                     # Loyalty history dataset
 ```
 
 ## Usage
@@ -79,7 +79,7 @@ The analysis uses two primary datasets:
    ```
 
 3. **Follow Our Steps:**  
-   Open `bda_module_3_final_evaluation_evelina.ipynb` in Jupyter Notebook or JupyterLab and execute the cells in sequence to reproduce the analysis.
+   Open `Customer-Flight-and-Loyalty-Data-Analysis.ipynb` in Jupyter Notebook or JupyterLab and execute the cells in sequence to reproduce the analysis.
 
 ## Results and Visualizations
 
