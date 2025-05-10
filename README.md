@@ -17,7 +17,7 @@ Although the analysis is preliminary, it lays a solid foundation for building mo
 
 ## Overview
 
-This repository contains a Jupyter Notebook (`bda_module_3_final_evaluation_evelina.ipynb`) that demonstrates the following steps:
+This repository contains a Jupyter Notebook (`Customer-Flight-and-Loyalty-Data-Analysis.ipynb`) that demonstrates the following steps:
 
 - **Downloading and Importing Libraries:** The first stage includes loading libraries for data processing, visualization, and statistical analysis. For example, as seen in the first code cell, libraries such as Pandas, NumPy, Seaborn, Matplotlib, and several scikit-learn modules for imputation are used.
 
